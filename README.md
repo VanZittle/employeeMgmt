@@ -39,7 +39,7 @@ You can clone my repository [here](https://github.com/VanZittle/employeeMgmt).Pl
 ## Visual reference of project
 The following image demonstrates the app's appearance:
   
-[![A video thumbnail shows the command-line employee management application with a play button overlaying the view.](./assets/video-thumbnail.png)](add video url here)
+[![video thumbnail](./assets/video-thumbnail.png)](add video url here)
   
 ![](./assets/challenge_appReference.gif)
 
