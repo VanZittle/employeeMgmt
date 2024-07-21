@@ -39,7 +39,7 @@ You can clone my repository [here](https://github.com/VanZittle/employeeMgmt).Pl
 ## Visual reference of project
 The following image demonstrates the app's appearance:
   
-[![video thumbnail](./assets/video-thumbnail.png)](https://drive.google.com/file/d/1gmlMMcdeYyndHoOp6UAkFiUqmLu96iZF/view?usp=drive_link)
+[![video thumbnail](./assets/video-thumbnail.png)](https://drive.google.com/file/d/18tUu-nJzZD2g47X52gkRN5vMhSJvLH14/view?usp=drive_link)
 
 ## License
 ![GitHub](https://img.shields.io/github/license/VanZittle/employeeMgmt?style=for-the-badge)<br> Go to license [here](https://github.com/VanZittle/employeeMgmt/blob/main/LICENSE)
