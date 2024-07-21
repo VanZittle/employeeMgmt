@@ -1,8 +1,8 @@
-DROP DATABASE IF EXISTS employees_db;
-CREATE DATABASE employees_db;
+DROP DATABASE IF EXISTS employees;
+CREATE DATABASE employees;
 
--- Connect to employees_db
-\c employees_db;
+-- Connect to employees
+\c employees
 
 CREATE TABLE department (
     id SERIAL PRIMARY KEY,

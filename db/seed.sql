@@ -1,7 +1,7 @@
 -- Connect to the database
 \c employees
 
-INSERT INTO department
+INSERT INTO department 
     (name)
 VALUES
     ('Human Resources'),
@@ -9,7 +9,7 @@ VALUES
     ('Ops'),
     ('Sales');
 
-INSERT INTO role
+INSERT INTO role 
     (title, department_id, salary)
 VALUES
     ('HR Manager', 1, 6500),
@@ -21,7 +21,7 @@ VALUES
     ('Sales Representative', 4, 7000),
     ('Sales Manager', 4, 8000);
 
-INSERT INTO employee
+INSERT INTO employee 
     (first_name, last_name, role_id, manager_id)
 VALUES
     ('Arturo', 'Mendez', 1, 1),
