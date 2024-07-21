@@ -1,5 +1,5 @@
 # EmployeeMgmt
-The app is a business management tool designed for business owners to streamline the organization and planning of their company's internal structure. It offers intuitive interfaces and functionalities to view, manage, and update the company's departments, roles, and employees.
+The app is a business management tool designed for business owners to streamline the organization and planning of their company's internal structure. It offers intuitive interfaces and functionalities to view, manage, and update the company's departments, roles, and employees. This is a command-line application that manages a company's employee database, using Node.js, Inquirer, and PostgreSQL.
 
 ## User Story
 
