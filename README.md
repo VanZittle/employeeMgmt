@@ -37,7 +37,7 @@ THEN I am promted to select a department and it sums up the employees salary fro
 You can clone my repository [here](https://github.com/VanZittle/employeeMgmt).Please,do not forget to add your psql password into db.js file before test it!
 
 ## Visual reference of project
-The following image demonstrates the app's appearance:
+The following video demonstrates the app's appearance:
   
 [![video thumbnail](./assets/video-thumbnail.png)](https://drive.google.com/file/d/18tUu-nJzZD2g47X52gkRN5vMhSJvLH14/view?usp=drive_link)
 
